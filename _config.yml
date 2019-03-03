@@ -72,9 +72,9 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "xxx",
-        href: "http://xxx.com"
-    }
-]
+# friends: [
+#    {
+#        title: "xxx",
+#        href: "http://xxx.com"
+#    }
+# ]
