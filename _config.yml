@@ -45,8 +45,6 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: dmeearm@gmail.com 
 intensedebate_comments: true
 
 
